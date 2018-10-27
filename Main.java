@@ -12,5 +12,7 @@ public class Main {
      System.out.println(student.equals(student1));
 
      System.out.println(student);
+
+     System.out.println("after commit");
     }
 }
